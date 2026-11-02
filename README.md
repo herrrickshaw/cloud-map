@@ -14,7 +14,7 @@ of by browsing. The output is three Markdown files; there is no code in this rep
 ## What it contains
 - `00_CLOUD_FILE_INDEX.md` — for each provider: the 15 largest top-level folders by size, the 15 heaviest
   file extensions, and the 15 largest individual files.
-- `dropbox_folders.md` — all 184 top-level Dropbox folders with file count, size and the five dominant
+- `dropbox_folders.md` — all 185 top-level Dropbox folders with file count, size and the five dominant
   extensions in each.
 - `gdrive_folders.md` — the same for all 67 top-level Google Drive folders.
 
